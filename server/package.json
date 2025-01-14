@@ -1,7 +1,7 @@
 {
   "name": "internal-chat",
   "version": "1.0.0",
-  "description": "",
+  "description": "git clone git@github.com:sunzsh/internal-chat.git",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
